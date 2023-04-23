@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetXmlApp", "NetXmlApp\NetXmlApp.csproj", "{3F512FF3-9E73-4941-9DA2-4D167C49FAAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F512FF3-9E73-4941-9DA2-4D167C49FAAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F512FF3-9E73-4941-9DA2-4D167C49FAAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F512FF3-9E73-4941-9DA2-4D167C49FAAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F512FF3-9E73-4941-9DA2-4D167C49FAAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4A90551-58D0-42F0-98FF-B29A4B9F35A0}
+	EndGlobalSection
+EndGlobal
